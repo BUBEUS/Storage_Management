@@ -93,11 +93,11 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 ## 📊Analiza obrotów "firmy" i przykładowe wykresy
 ![image](https://github.com/user-attachments/assets/1abac12e-e82f-44fc-9a9c-2687551d63d0)
 
-### Ranking najlepiej sprzedających się produktów 
+### 📈Ranking najlepiej sprzedających się produktów 
 ![image](https://github.com/user-attachments/assets/094da6fb-4448-4d0f-b686-c66e3ad78f2b)
 
-### Przychody w czasie
+### 📉Przychody w czasie
 ![image](https://github.com/user-attachments/assets/dadbb344-4529-4f96-b9f9-00b3f76781ab)
 
-### Wartość rynkowa produktów w magazynie
+### 🏷️Wartość rynkowa produktów w magazynie
 ![image](https://github.com/user-attachments/assets/6ba6a830-b088-4ac3-a75b-291624f85fb2)
