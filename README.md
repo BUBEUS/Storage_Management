@@ -8,9 +8,22 @@
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoja-nazwa/MagazynApp.git
-   cd MagazynApp
+   git clone https://github.com/BUBEUS/Storage_Management.git
+   cd Storage_Management
 Plik: **gm_gui.py** uruchamia program.
+**mini_allegro.db** przechowuje dane magazynowe
+
+
+## 🛠️ Technologie
+
+Projekt został zbudowany z wykorzystaniem następujących technologii i bibliotek:
+
+- **Python 3** – główny język programowania
+- **Tkinter** – wbudowana biblioteka GUI do tworzenia interfejsu graficznego użytkownika
+- **SQLite3** – lekka, plikowa baza danych używana do przechowywania produktów i zamówień
+- **Matplotlib** – biblioteka do tworzenia wykresów i wizualizacji danych
+- **NumPy** – używana do operacji numerycznych i danych wykresów
+- **os / datetime / calendar** – standardowe biblioteki Pythona do obsługi systemu plików, dat i czasu
 
 
 ## ✨ Funkcje
@@ -20,12 +33,5 @@ Plik: **gm_gui.py** uruchamia program.
 - Tworzenie zamówień i zarządzanie koszykiem 🛒
 - Finalizacja i podgląd szczegółów zamówienia ✅
 - Generowanie wykresów i statystyk działalności 📊
-- Przejrzysty interfejs użytkownika (CLI / GUI, jeśli GUI)
-
-## 🛠️ Technologie
-
-- Python 3.x
-- (np. `matplotlib` do wykresów)
-- (np. `tkinter` jeśli użyto GUI)
-- (np. `pandas` dla analizy danych)
+- Przejrzysty interfejs użytkownika GUI
 
