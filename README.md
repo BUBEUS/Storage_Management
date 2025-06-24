@@ -11,7 +11,7 @@
 - [✨ Funkcje](#-funkcje)
 - [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
   - [📦 Dodawanie produktu](#-dodawanie-produktu)
-  - [🔄 Operacje magazynowe](#-operacje-magazynowe)
+  - [🔄 Operacje magazynowe](#-generowanie-operacji-magazynowych)
   - [🛒 Koszyk i zamówienia](#-koszyk-i-zamówienia)
   - [✅ Przegląd zamówień](#-przegląd-zamówień)
   - [📊 Statystyki i analiza](#-statystyki-i-analiza)
@@ -62,7 +62,7 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 ![image](https://github.com/user-attachments/assets/1d303572-4fbe-4018-911c-308e2cdc52a4)
 
 
-### 🔄Generowanie operacji magazynowych - odpowiednio na podstawie zdarzeń
+### 🔄 Generowanie operacji magazynowych - odpowiednio na podstawie zdarzeń
 ![image](https://github.com/user-attachments/assets/4ceab05c-5f08-4200-9644-459b89569514)
 
 
