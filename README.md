@@ -10,7 +10,7 @@
 - [🛠️ Technologie](#️-technologie)
 - [✨ Funkcje](#-funkcje)
 - [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
-  - [📦 Dodawanie produktu](##-dodawanie-produktu)
+  - [📦 Dodawanie produktu](#-dodawanie-produktu)
   - [🔄 Operacje magazynowe](#-operacje-magazynowe)
   - [🛒 Koszyk i zamówienia](#-koszyk-i-zamówienia)
   - [✅ Przegląd zamówień](#-przegląd-zamówień)
@@ -56,7 +56,7 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 
 ## 📷 Przykładowe ekrany aplikacji
 
-### 📦Dodawanie produktu
+### 📦 Dodawanie produktu
 ![image](https://github.com/user-attachments/assets/df0186ce-b6c1-4a4a-ac18-3e15af7a52f7)
 
 ![image](https://github.com/user-attachments/assets/1d303572-4fbe-4018-911c-308e2cdc52a4)
