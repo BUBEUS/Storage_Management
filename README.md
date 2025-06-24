@@ -1,13 +1,9 @@
 # Projekt Mini Allegro - System Magazynowy
 
 **Storage_Management** to prosta aplikacja napisana w Pythonie, która umożliwia zarządzanie produktami w magazynie, tworzenie i finalizowanie zamówień oraz generowanie statystyk w formie przejrzystych wykresów.
-
-![image](https://github.com/user-attachments/assets/491bb7e0-9210-4d5d-818f-a7d918ecbd28)
-
 ## Plik uruchamiający: **gm_gui.py**
 
-##
-
+![image](https://github.com/user-attachments/assets/491bb7e0-9210-4d5d-818f-a7d918ecbd28)
 
 
 ## ✨ Funkcje
