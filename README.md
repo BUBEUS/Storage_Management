@@ -60,6 +60,7 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 - Przejrzysty interfejs użytkownika GUI
 
 ## 🛢️ Baza danych (SQLite3)
+
 Baza zawiera 7 tabel, które mieszczą wszystkie dane. W przyszłości warto by rozszerzyć o tabelę "wysyłka" oraz dodać podział zamówień/operacji magazynowych na okresy, by ułatwić analizę.
 ---
 Diagram relacyjny bazy danych:
