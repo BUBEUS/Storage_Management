@@ -11,10 +11,15 @@
 - [✨ Funkcje](#-funkcje)
 - [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
   - [📦 Dodawanie produktu](#-dodawanie-produktu)
-  - [🔄 Operacje magazynowe](#-generowanie-operacji-magazynowych)
-  - [🛒 Koszyk i zamówienia](#-koszyk-i-zamówienia)
-  - [✅ Przegląd zamówień](#-przegląd-zamówień)
-  - [📊 Statystyki i analiza](#-statystyki-i-analiza)
+  - [🔄 Generowanie operacji magazynowych - odpowiednio na podstawie zdarzeń](#-generowanie-operacji-magazynowych---odpowiednio-na-podstawie-zdarzeń)
+  - [🛒 Dodawanie produktów do koszyka](#-dodawanie-produktów-do-koszyka)
+  - [🛒 Podsumowanie koszyka i realizacja zamówienia](#-podsumowanie-koszyka-i-realizacja-zamówienia)
+  - [✅ Przeglądanie zamówień](#-przeglądanie-zamówień)
+  - [✅ Pozycje poszczególnych zamówień](#-pozycje-poszczególnych-zamówień)
+- [📊 Analiza obrotów "firmy" i przykładowe wykresy](#-analiza-obrotów-firmy-i-przykładowe-wykresy)
+  - [📈 Ranking najlepiej sprzedających się produktów](#-ranking-najlepiej-sprzedających-się-produktów)
+  - [📉 Przychody w czasie](#-przychody-w-czasie)
+  - [🏷️ Wartość rynkowa produktów w magazynie](#-wartość-rynkowa-produktów-w-magazynie)
 
 ---
 
