@@ -4,6 +4,22 @@
 
 ![image](https://github.com/user-attachments/assets/491bb7e0-9210-4d5d-818f-a7d918ecbd28)
 
+## 📚 Spis treści
+
+- [🚀 Uruchomienie projektu](#-uruchomienie-projektu)
+- [🛠️ Technologie](#️-technologie)
+- [✨ Funkcje](#-funkcje)
+- [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
+  - [📦 Dodawanie produktu do magazynu](#-dodawanie-produktu-do-magazynu)
+  - [🔄 Operacje magazynowe](#-operacje-magazynowe)
+  - [🛒 Koszyk i zamówienia](#-koszyk-i-zamówienia)
+  - [✅ Przegląd zamówień](#-przegląd-zamówień)
+  - [📊 Statystyki i analiza](#-statystyki-i-analiza)
+- [📄 Licencja](#-licencja)
+
+---
+
+
 ## 🚀 Uruchomienie projektu
 
 1. Sklonuj repozytorium:
@@ -78,10 +94,5 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 ### Przychody w czasie
 ![image](https://github.com/user-attachments/assets/dadbb344-4529-4f96-b9f9-00b3f76781ab)
 
-
-
-
-
-
-
-
+### Wartość rynkowa produktów w magazynie
+![image](https://github.com/user-attachments/assets/6ba6a830-b088-4ac3-a75b-291624f85fb2)
