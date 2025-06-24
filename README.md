@@ -61,8 +61,9 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 
 ## 🛢️ Baza danych (SQLite3)
 
+Projekt korzysta z lokalnej bazy danych SQLite (`mini_allegro.db`), w której przechowywane są dane produktów, zamówień i operacji magazynowych.
 Baza zawiera 7 tabel, które mieszczą wszystkie dane. W przyszłości warto by rozszerzyć o tabelę "wysyłka" oraz dodać podział zamówień/operacji magazynowych na okresy, by ułatwić analizę.
----
+
 Diagram relacyjny bazy danych:
 ![image](https://github.com/user-attachments/assets/16b57f84-21a2-45ab-8068-446514579134)
 
