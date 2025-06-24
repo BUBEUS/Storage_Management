@@ -10,7 +10,7 @@
 - [🛠️ Technologie](#️-technologie)
 - [✨ Funkcje](#-funkcje)
 - [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
-  - [📦 Dodawanie produktu](#-dodawanie-produktu)
+  - [📦 Dodawanie produktu](##-dodawanie-produktu)
   - [🔄 Operacje magazynowe](#-operacje-magazynowe)
   - [🛒 Koszyk i zamówienia](#-koszyk-i-zamówienia)
   - [✅ Przegląd zamówień](#-przegląd-zamówień)
