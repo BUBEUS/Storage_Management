@@ -13,6 +13,11 @@
 Plik: **gm_gui.py** uruchamia program.
 **mini_allegro.db** przechowuje dane magazynowe
 
+2. (Opcjonalnie) Zainstaluj wymagane biblioteki:
+   ```bash
+   pip install -r requirements.txt
+
+
 
 ## 🛠️ Technologie
 
