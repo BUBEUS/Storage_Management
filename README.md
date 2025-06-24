@@ -39,6 +39,7 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 - Przejrzysty interfejs użytkownika GUI
 
 
+
 ### Dodawanie produktu
 ![image](https://github.com/user-attachments/assets/df0186ce-b6c1-4a4a-ac18-3e15af7a52f7)
 
