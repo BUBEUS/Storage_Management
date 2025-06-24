@@ -38,3 +38,5 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 - Generowanie wykresów i statystyk działalności 📊
 - Przejrzysty interfejs użytkownika GUI
 
+### Dodawanie produktu
+
