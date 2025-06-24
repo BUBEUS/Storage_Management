@@ -9,7 +9,7 @@
 - [🚀 Uruchomienie projektu](#-uruchomienie-projektu)
 - [🛠️ Technologie](#️-technologie)
 - [✨ Funkcje](#-funkcje)
-- [🛢️ Baza danych (SQLite3)](#-🛢️-baza-danych-sqlite3)
+- [🛢️ Baza danych (SQLite3)](#-baza-danych-sqlite3)
 - [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
   - [📦 Dodawanie produktu](#-dodawanie-produktu)
   - [🔄 Generowanie operacji magazynowych - odpowiednio na podstawie zdarzeń](#-generowanie-operacji-magazynowych---odpowiednio-na-podstawie-zdarzeń)
