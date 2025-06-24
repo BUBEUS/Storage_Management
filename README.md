@@ -9,6 +9,7 @@
 - [🚀 Uruchomienie projektu](#-uruchomienie-projektu)
 - [🛠️ Technologie](#️-technologie)
 - [✨ Funkcje](#-funkcje)
+- [🛢️ Baza danych (SQLite3)](#-baza-danych-sqlite3)
 - [📷 Przykładowe ekrany aplikacji](#-przykładowe-ekrany-aplikacji)
   - [📦 Dodawanie produktu](#-dodawanie-produktu)
   - [🔄 Generowanie operacji magazynowych - odpowiednio na podstawie zdarzeń](#-generowanie-operacji-magazynowych---odpowiednio-na-podstawie-zdarzeń)
@@ -57,6 +58,12 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 - Finalizacja i podgląd szczegółów zamówienia ✅
 - Generowanie wykresów i statystyk działalności 📊
 - Przejrzysty interfejs użytkownika GUI
+
+## 🛢️ Baza danych (SQLite3)
+Baza zawiera 7 tabel, które mieszczą wszystkie dane. W przyszłości warto by rozszerzyć o tabelę "wysyłka" oraz dodać podział zamówień/operacji magazynowych na okresy, by ułatwić analizę.
+---
+Diagram relacyjny bazy danych:
+![image](https://github.com/user-attachments/assets/16b57f84-21a2-45ab-8068-446514579134)
 
 
 ## 📷 Przykładowe ekrany aplikacji
