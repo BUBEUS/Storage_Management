@@ -71,7 +71,7 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 ![image](https://github.com/user-attachments/assets/4ceab05c-5f08-4200-9644-459b89569514)
 
 
-### 🛒Dodawanie produktów do koszyka
+### 🛒 Dodawanie produktów do koszyka
 ![image](https://github.com/user-attachments/assets/e14a1623-0cf2-47bc-bfc4-ef0ced1e3fec)
 
 ![image](https://github.com/user-attachments/assets/46af0f47-956a-423b-81ee-459c15426c2f)
@@ -79,25 +79,25 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 ![image](https://github.com/user-attachments/assets/54e45fe5-fff9-41b1-80bc-8a7dad869c7b)
 
 
-### 🛒Podsumowanie koszyka i realizacja zamówienia
+### 🛒 Podsumowanie koszyka i realizacja zamówienia
 ![image](https://github.com/user-attachments/assets/f7a22c86-c9b4-4b33-9331-4999d707f2b0)
 
 
-### ✅Przeglądanie zamówień
+### ✅ Przeglądanie zamówień
 ![image](https://github.com/user-attachments/assets/f977c862-3ab9-414e-ac84-2bccb755b5c7)
 
 
-### ✅Pozycje poszczególnych zamówień
+### ✅ Pozycje poszczególnych zamówień
 ![image](https://github.com/user-attachments/assets/dd1284df-f44a-451d-b952-37cb9748e121)
 
-## 📊Analiza obrotów "firmy" i przykładowe wykresy
+## 📊 Analiza obrotów "firmy" i przykładowe wykresy
 ![image](https://github.com/user-attachments/assets/1abac12e-e82f-44fc-9a9c-2687551d63d0)
 
-### 📈Ranking najlepiej sprzedających się produktów 
+### 📈 Ranking najlepiej sprzedających się produktów 
 ![image](https://github.com/user-attachments/assets/094da6fb-4448-4d0f-b686-c66e3ad78f2b)
 
-### 📉Przychody w czasie
+### 📉 Przychody w czasie
 ![image](https://github.com/user-attachments/assets/dadbb344-4529-4f96-b9f9-00b3f76781ab)
 
-### 🏷️Wartość rynkowa produktów w magazynie
+### 🏷️ Wartość rynkowa produktów w magazynie
 ![image](https://github.com/user-attachments/assets/6ba6a830-b088-4ac3-a75b-291624f85fb2)
