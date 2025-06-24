@@ -17,7 +17,6 @@ Plik: **gm_gui.py** uruchamia program.
    ```bash
    pip install -r requirements.txt
 
-
 ## 🛠️ Technologie
 
 Projekt został zbudowany z wykorzystaniem następujących technologii i bibliotek:
