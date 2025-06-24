@@ -15,7 +15,6 @@
   - [🛒 Koszyk i zamówienia](#-koszyk-i-zamówienia)
   - [✅ Przegląd zamówień](#-przegląd-zamówień)
   - [📊 Statystyki i analiza](#-statystyki-i-analiza)
-- [📄 Licencja](#-licencja)
 
 ---
 
@@ -55,6 +54,7 @@ Projekt został zbudowany z wykorzystaniem następujących technologii i bibliot
 - Przejrzysty interfejs użytkownika GUI
 
 
+## Przykładowe ekrany aplikacji
 
 ### 📦Dodawanie produktu
 ![image](https://github.com/user-attachments/assets/df0186ce-b6c1-4a4a-ac18-3e15af7a52f7)
